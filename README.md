@@ -20,7 +20,7 @@ If `Deploy from a branch` works but selecting `GitHub Actions` appears to do not
    - Workflow needs `pages: write` and `id-token: write`.
 
 6. **Custom domain**
-   - `public/CNAME` is included as `italy.eugeneyip.org`.
+   - `public/CNAME` is included as `mar9.eugeneyip.org`.
 
 7. **If site still doesn't load**
    - Check Actions logs first, then Pages deployment status, then DNS/CNAME records.
